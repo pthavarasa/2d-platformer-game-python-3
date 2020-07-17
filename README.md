@@ -12,7 +12,7 @@ sudo pip3 install --upgrade pip
 sudo pip3 install pygame
 ```
 ```bash
-make build && ./gapython3 ultimate_ninja.py
+python3 ultimate_ninja.py
 ```
 
 ### Screenshots
