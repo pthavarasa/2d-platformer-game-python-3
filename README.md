@@ -16,5 +16,5 @@ python3 ultimate_ninja.py
 ```
 
 ### Screenshots
-![](Capture.png)
-![](Capture1.png)
+![](screenshots/Capture.png)
+![](screenshots/Capture1.png)
